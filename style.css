@@ -1,0 +1,20 @@
+.h1 {
+  color: hsl(0, 100%, 50%);
+  font-size: 42px;
+    background-color: hsl(51, 100%, 73%);
+}
+
+.a {
+    background-color: rgb(240, 231, 231);
+
+}
+
+a:hover {
+  background-color: black;
+  color: white;
+
+}
+
+.b {
+    background-color: rgb(161, 84, 84);
+}
